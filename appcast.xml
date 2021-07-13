@@ -9,7 +9,7 @@
             <sparkle:version>1.0.1</sparkle:version>
             <sparkle:minimumSystemVersion>1.0.1</sparkle:minimumSystemVersion>
             <sparkle:maximumSystemVersion>1.0.1</sparkle:maximumSystemVersion>
-            <enclosure url="https://play.google.com/store/apps/details?id=id.vision.app.vision" sparkle:version="1.0.1" />
+            <enclosure url="https://play.google.com/store/apps/details?id=id.vision.app.vision" />
         </item>
     </channel>
 </rss>
